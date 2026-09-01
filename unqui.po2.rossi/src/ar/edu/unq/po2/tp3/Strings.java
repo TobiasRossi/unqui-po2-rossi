@@ -6,7 +6,7 @@ public class Strings {
 			
 		String a = "abc";
 		String s = a;
-		String t;
+		//String t;
 			
 		System.out.println("1. s.length(): " + s.length());
 		//System.out.println("2. t.length(): " + t.length());
